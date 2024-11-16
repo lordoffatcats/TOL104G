@@ -8,3 +8,6 @@ Allar þessar glósur voru skrifaðar í [Obsidian](https://obsidian.md/) sem no
 
 ## Fyrirvari
 Það getur vel verið, **og er frekar líklegt**, að það séu einhverjar villur, og rangfærslur í glósunum hjá mér. Endilega bendið mér á þær í pull request-i eða issue-i á hér Github. Ég tek enga ábyrgð ef þessar glósur hafa neikvæð áhrif á einkunnir í prófum og verkefnum.
+
+## License
+Þessar glósur eru undir [MIT](https://opensource.org/license/mit) leyfi og því má nota, afrita, breyta, birta, dreifa og selja þær án nokkura takmarkana.
