@@ -36,7 +36,7 @@ Fullskipað tvíhlutanet með $|V_{1}|=m$ og $|V_{2}|=n$ er táknað $K_{mn}$
 ### Dæmi $K_{32} = K_{23}$
 [hlekkur](https://q.uiver.app/#q=WzAsNSxbMCwwLCJcXGJ1bGxldCJdLFswLDIsIlxcYnVsbGV0Il0sWzAsNCwiXFxidWxsZXQiXSxbMiwxLCJcXGJ1bGxldCJdLFsyLDMsIlxcYnVsbGV0Il0sWzAsMywiIiwwLHsic3R5bGUiOnsiaGVhZCI6eyJuYW1lIjoibm9uZSJ9fX1dLFszLDEsIiIsMCx7InN0eWxlIjp7ImhlYWQiOnsibmFtZSI6Im5vbmUifX19XSxbMSw0LCIiLDAseyJzdHlsZSI6eyJoZWFkIjp7Im5hbWUiOiJub25lIn19fV0sWzQsMiwiIiwwLHsic3R5bGUiOnsiaGVhZCI6eyJuYW1lIjoibm9uZSJ9fX1dLFs0LDAsIiIsMCx7InN0eWxlIjp7ImhlYWQiOnsibmFtZSI6Im5vbmUifX19XSxbMywyLCIiLDAseyJzdHlsZSI6eyJoZWFkIjp7Im5hbWUiOiJub25lIn19fV1d)<iframe class="quiver-embed" src="https://q.uiver.app/#q=WzAsNSxbMCwwLCJcXGJ1bGxldCJdLFswLDIsIlxcYnVsbGV0Il0sWzAsNCwiXFxidWxsZXQiXSxbMiwxLCJcXGJ1bGxldCJdLFsyLDMsIlxcYnVsbGV0Il0sWzAsMywiIiwwLHsic3R5bGUiOnsiaGVhZCI6eyJuYW1lIjoibm9uZSJ9fX1dLFszLDEsIiIsMCx7InN0eWxlIjp7ImhlYWQiOnsibmFtZSI6Im5vbmUifX19XSxbMSw0LCIiLDAseyJzdHlsZSI6eyJoZWFkIjp7Im5hbWUiOiJub25lIn19fV0sWzQsMiwiIiwwLHsic3R5bGUiOnsiaGVhZCI6eyJuYW1lIjoibm9uZSJ9fX1dLFs0LDAsIiIsMCx7InN0eWxlIjp7ImhlYWQiOnsibmFtZSI6Im5vbmUifX19XSxbMywyLCIiLDAseyJzdHlsZSI6eyJoZWFkIjp7Im5hbWUiOiJub25lIn19fV1d&embed" width="600" height="300" style="border-radius: 8px; border: none;"></iframe>
 # Litun neta
-Net er litað með því að lita hnútana svo a enginn hnæutur tengist hnút með sama lit.
+Net er litað með því að lita hnútana svo a enginn hnútur tengist hnút með sama lit.
 
 ## $n$-litanlegt (*$n$-colorable*) net
 Net er $n$-litanlegt ef það er hægt að lita það með $n$ litum.
@@ -68,7 +68,7 @@ $$
 ## Legufylki (*incidence matrix*)
 Fylki þar sem leggir og hnútar eru merktir með bókstöfum og tölum, og tengingar milli hnúta og leggja merktir með $1$.
 
-$$\begin{matrix} 1 & 0 & 0 & 1 & 0 & 1 \\1 & 1 & 0 & 0 & 1 & 0 \\0 & 1 & 1 & 1 & 0 & 0 \\ 0 & 0 & 1 & 0 & 1 & 1 \\\end{matrix}\hskip 2ex = K_{4} \hskip-11.5em\raise 8ex \hbox{a}\hskip 1em\raise 8ex \hbox{b}\hskip 1em\raise 8ex \hbox{c}\hskip 1 em\raise 8ex \hbox{d} \hskip 1em\raise 8ex \hbox{e}\hskip 1em\raise 8ex \hbox{f}\hskip -9.7em\raise 4.8ex \hbox{1} \hskip -0.5em\raise 1.8ex \hbox{2} \hskip -0.5em\raise -1.8ex \hbox{3} \hskip -0.5em\raise -4.8ex \hbox{4} 
+$$\begin{matrix} 1 & 0 & 0 & 1 & 0 & 1 \\1 & 1 & 0 & 0 & 1 & 0 \\0 & 1 & 1 & 1 & 0 & 0 \\ 0 & 0 & 1 & 0 & 1 & 1 \\ \end{matrix}\hskip 2ex = K_{4} \hskip-11.5em\raise 8ex \hbox{a}\hskip 1em\raise 8ex \hbox{b}\hskip 1em\raise 8ex \hbox{c}\hskip 1 em\raise 8ex \hbox{d} \hskip 1em\raise 8ex \hbox{e}\hskip 1em\raise 8ex \hbox{f}\hskip -9.7em\raise 4.8ex \hbox{1} \hskip -0.5em\raise 1.8ex \hbox{2} \hskip -0.5em\raise -1.8ex \hbox{3} \hskip -0.5em\raise -4.8ex \hbox{4} 
 $$
 ## Einsmóta net
 Tvö net eru $G_{1}(V_{1},E_{1})$ og $G_{2}(V_{2},E_{2})$ eru einsmóta ef til er gagntæk vörpun $f:V_{1}\to V_{2}$ þannig að: $x,y\text{ eru grannar í } G_{1} \leftrightarrow f(x), f(y) \text{ eru grannar í } V_{2}$.
