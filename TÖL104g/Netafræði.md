@@ -68,8 +68,9 @@ $$
 ## Legufylki (*incidence matrix*)
 Fylki þar sem leggir og hnútar eru merktir með bókstöfum og tölum, og tengingar milli hnúta og leggja merktir með $1$.
 
-$$\begin{matrix} 1 & 0 & 0 & 1 & 0 & 1 \\1 & 1 & 0 & 0 & 1 & 0 \\0 & 1 & 1 & 1 & 0 & 0 \\ 0 & 0 & 1 & 0 & 1 & 1 \\ \end{matrix}\hskip 2ex = K_{4} \hskip-11.5em\raise 8ex \hbox{a}\hskip 1em\raise 8ex \hbox{b}\hskip 1em\raise 8ex \hbox{c}\hskip 1 em\raise 8ex \hbox{d} \hskip 1em\raise 8ex \hbox{e}\hskip 1em\raise 8ex \hbox{f}\hskip -9.7em\raise 4.8ex \hbox{1} \hskip -0.5em\raise 1.8ex \hbox{2} \hskip -0.5em\raise -1.8ex \hbox{3} \hskip -0.5em\raise -4.8ex \hbox{4} 
+$$\begin{matrix} 1 & 0 & 0 & 1 & 0 & 1 \\ 1 & 1 & 0 & 0 & 1 & 0 \\ 0 & 1 & 1 & 1 & 0 & 0 \\ 0 & 0 & 1 & 0 & 1 & 1 \\ \end{matrix}\hskip 2ex = K_{4} \hskip-11.5em\raise 8ex \hbox{a}\hskip 1em\raise 8ex \hbox{b}\hskip 1em\raise 8ex \hbox{c}\hskip 1 em\raise 8ex \hbox{d} \hskip 1em\raise 8ex \hbox{e}\hskip 1em\raise 8ex \hbox{f}\hskip -9.7em\raise 4.8ex \hbox{1} \hskip -0.5em\raise 1.8ex \hbox{2} \hskip -0.5em\raise -1.8ex \hbox{3} \hskip -0.5em\raise -4.8ex \hbox{4}
 $$
+
 ## Einsmóta net
 Tvö net eru $G_{1}(V_{1},E_{1})$ og $G_{2}(V_{2},E_{2})$ eru einsmóta ef til er gagntæk vörpun $f:V_{1}\to V_{2}$ þannig að: $x,y\text{ eru grannar í } G_{1} \leftrightarrow f(x), f(y) \text{ eru grannar í } V_{2}$.
 Óformlega má orða þetta svo að tvö net eru einsmóta ef það er hægt að færa hnúta í einu neti, án þess að breyta leggjum milli hnúta svo að netin líti eins út.
