@@ -1,4 +1,4 @@
-# TOL104G
+# TÖL104G - 2024
 Glósubanki í Stærðfræðimynstri við Háskóla Íslands frá haustönn 2024
 
 ## Hvernig á að nota þennan glósubanka?
